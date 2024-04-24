@@ -1,0 +1,15 @@
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\bin\Debug\net7.0\StudentAdmission.exe
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\bin\Debug\net7.0\StudentAdmission.deps.json
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\bin\Debug\net7.0\StudentAdmission.runtimeconfig.json
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\bin\Debug\net7.0\StudentAdmission.dll
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\bin\Debug\net7.0\StudentAdmission.pdb
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.AssemblyReference.cache
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfoInputs.cache
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfo.cs
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.CoreCompileInputs.cache
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.dll
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\refint\StudentAdmission.dll
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.pdb
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\StudentAdmission.genruntimeconfig.cache
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 2-Basic List Assignments\StudentAdmission\obj\Debug\net7.0\ref\StudentAdmission.dll
